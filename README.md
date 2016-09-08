@@ -8,3 +8,6 @@
 * find_content just like grep  
 > option: {line_number, line_content, content_matched}  
 * support color display  
+
+-----
+[link to lcofjp.com](http://lcofjp.com "lcofjp.com") welcome
