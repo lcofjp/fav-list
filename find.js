@@ -2,6 +2,7 @@
 var path = require("path");
 var fs = require('fs');
 
+//add a comment in 2017/2/15
 
 function checkFileStat(pathname) {
     try {
