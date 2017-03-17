@@ -16,6 +16,10 @@
 * [Koa - next generation web framework for node.js](http://koajs.com/)
 * [Quackit Tutorials(html,css,js参考)](http://www.quackit.com/)
 * [The Khronos Group Inc.](https://www.khronos.org)
+* [Harp-The static web server with built-in preprocessing](https://harpjs.com/)
+* [BABEL Learn ES2015](https://babeljs.io/learn-es2015/)
+* [Node.js ES2015 Support](http://node.green/)
+* [Bower: A package manager for the web](https://bower.io/)
 
 
 ### HARDWARE
@@ -26,8 +30,11 @@
 * [LM3S9B96 | LM3S Cortex-M3 Series | Control + Automation | Technical documents](http://www.ti.com/product/LM3S9B96/technicaldocuments)
 
 ### OTHER
+* [ColRD: Create and share color inspiration with the world](http://colrd.com/)
 * [GLT - OpenGL C++ Toolkit](http://www.nigels.com/glt/)
 * [visual studio c/c++函数实例映射](https://msdn.microsoft.com/library/tsbaswba(v=vs.110).aspx)
+* [An Introduction to TrueType Fonts: A look inside the TTF format](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=iws-chapter08)
+* [How To Draw TrueType Glyph Outlines](https://support.microsoft.com/en-us/help/243285/how-to-draw-truetype-glyph-outlines)
 
 ---
 
