@@ -27,6 +27,7 @@
 
 ### OTHER
 * [GLT - OpenGL C++ Toolkit](http://www.nigels.com/glt/)
+* [visual studio c/c++函数实例映射](https://msdn.microsoft.com/library/tsbaswba(v=vs.110).aspx)
 
 ---
 
