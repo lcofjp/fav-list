@@ -16,6 +16,7 @@ function pug2html(infile, outfile) {
 
 if (require.main === module) {
   // code to be executed while current file is the entry point 
+	//process.argv[0] is node, argv[1] is this file, argv[2] is the first parameter
   if (process.argv.length === 3) {
 		const infilename = process.argv[2];
 		const outfilename = path.basename(infilename, path.extname(infilename)) + '.html';
@@ -29,3 +30,4 @@ if (require.main === module) {
 		pug2html(infilename, outfilename);
 	}
 }
+

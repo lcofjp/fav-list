@@ -30,6 +30,7 @@
 * [LM3S9B96 | LM3S Cortex-M3 Series | Control + Automation | Technical documents](http://www.ti.com/product/LM3S9B96/technicaldocuments)
 
 ### OTHER
+* [Unicode 9.0 Character Code Charts](http://www.unicode.org/charts/)
 * [ColRD: Create and share color inspiration with the world](http://colrd.com/)
 * [GLT - OpenGL C++ Toolkit](http://www.nigels.com/glt/)
 * [visual studio c/c++函数实例映射](https://msdn.microsoft.com/library/tsbaswba(v=vs.110).aspx)
