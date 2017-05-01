@@ -8,7 +8,7 @@
 * [React](https://facebook.github.io/react/)  
 * [Express middleware](https://expressjs.com/en/resources/middleware) 
 * [Bootstrap ](http://getbootstrap.com/) 
-* [Foundation](http://foundation.zurb.com/)
+* [Foundation: responsive front-end framework](http://foundation.zurb.com/)
 * [Pug.js Getting Start](https://pugjs.org/api/getting-started.html) 
 * [Scala.js](http://www.scala-js.org/)
 * [IETF Documents](https://tools.ietf.org/html/)
@@ -22,6 +22,8 @@
 * [BABEL Learn ES2015](https://babeljs.io/learn-es2015/)
 * [Node.js ES2015 Support](http://node.green/)
 * [Bower: A package manager for the web](https://bower.io/)
+* [rollup.js: module bundler for JavaScript](https://rollupjs.org/)
+* [webpack: module bundler](http://webpack.github.io/)
 
 
 ### HARDWARE
