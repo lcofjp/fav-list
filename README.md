@@ -26,6 +26,7 @@
 * [webpack: module bundler](http://webpack.github.io/)
 * [Lodash: A modern JavaScript utility library delivering modularity, performance & extras.](https://lodash.com/)
 * [Underscore.js: a JavaScript library](http://underscorejs.org/)
+* [libiconv](https://www.gnu.org/software/libiconv/)
 
 
 ### HARDWARE
