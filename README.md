@@ -22,6 +22,7 @@
 * [BABEL Learn ES2015](https://babeljs.io/learn-es2015/)
 * [Node.js ES2015 Support](http://node.green/)
 * [Bower: A package manager for the web](https://bower.io/)
+* [browserify](http://browserify.org/)
 * [rollup.js: module bundler for JavaScript](https://rollupjs.org/)
 * [webpack: module bundler](http://webpack.github.io/)
 * [libiconv](https://www.gnu.org/software/libiconv/)
