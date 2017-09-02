@@ -1,60 +1,23 @@
-//find all .ts file to be compiling
-var path = require("path");
-var fs = require('fs');
+//find specified file in directory
+const path = require("path");
+const fs = require('fs');
+const R = require('ramda');
 
-//add a comment in 2017/2/15
 
-function checkFileStat(pathname) {
-    try {
-        var stat = fs.statSync(pathname);
-        if (stat.isFile()) {
-            return 1;
-        }
-        else if (stat.isDirectory()) {
-            return 2;
-        }
-        else
-            return undefined;
-    }
-    catch (e) {
-        console.log(e);
-        return undefined;
-    }
-}
 
-var tslist = [];
+const statSync = pathname => fs.statSync(pathname);
+const dirTrue = stat => stat.isDirectory();
+const isDir = R.compose(dirTrue, statSync);
+const readDir = dirname => fs.readdirSync(dirname).map(name => path.join(dirname, name));
 
-function addToList(pathname){
-    tslist.push(pathname);
-}
-function saveAll(){
-    var content = tslist.join("\r\n");
-    fs.writeFileSync("input.txt", content);
-}
+const findFileInDir = (filename, dir) => {
+    const reg = new RegExp(filename);
+    const currentLevel = readDir(dir);
+    let result = currentLevel.filter(R.compose(reg.test.bind(reg), (full => path.basename(full))));
+    let sub = currentLevel.filter(isDir).map(dirname => findFileInDir(reg, dirname));
+    return R.flatten(result.concat(sub));
+};
 
-function travalDir(dirname, cb){
-    var i;
-    var filelist = fs.readdirSync(dirname);
-    for (i = 0; i < filelist.length; i++) {
-        var fullname = path.join(dirname, filelist[i]);
-        var filetype = checkFileStat(fullname);
-        if (filetype == 1) {
-            if (path.extname(fullname) === ".ts") {
-                cb(fullname);
-            }
-        }
-        else if (filetype == 2) {
-            travalDir(fullname, cb);
-        }
-    }
-}
-
-function travalAllTs(pathname)
-{
-    var cwd = pathname || process.cwd();
-    var curlist = fs.readdirSync(cwd);
-    travalDir(cwd, addToList);
-    saveAll();
-}
-
-travalAllTs();
+const r = findFileInDir('.js$', './');
+console.log(r);
+console.log("total: ", r.length);
