@@ -31,6 +31,9 @@
 * [Ramda](http://ramdajs.com/)
 * [Lodash: A modern JavaScript utility library delivering modularity, performance & extras.](https://lodash.com/)
 * [Underscore.js: a JavaScript library](http://underscorejs.org/)
+#### React相关
+* [react-redux](https://github.com/reactjs/react-redux)
+* [react-router](https://github.com/ReactTraining/react-router)
 
 
 ### HARDWARE
