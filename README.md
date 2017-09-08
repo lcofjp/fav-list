@@ -27,6 +27,8 @@
 * [webpack: module bundler](http://webpack.github.io/)
 * [libiconv](https://www.gnu.org/software/libiconv/)
 * [reactivex](http://reactivex.io/)
+* [marked](https://github.com/chjj/marked)
+* [highlight.js](https://github.com/isagalaev/highlight.js)
 #### 函数式JavaScript
 * [Ramda](http://ramdajs.com/)
 * [Lodash: A modern JavaScript utility library delivering modularity, performance & extras.](https://lodash.com/)
