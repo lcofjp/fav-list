@@ -34,10 +34,13 @@
 * [Ramda](http://ramdajs.com/)
 * [Lodash: A modern JavaScript utility library delivering modularity, performance & extras.](https://lodash.com/)
 * [Underscore.js: a JavaScript library](http://underscorejs.org/)
+* [folktale, A standard library for functional programming in JavaScript](https://github.com/origamitower/folktale)
+* [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 #### React相关
 * [react-redux](https://github.com/reactjs/react-redux)
 * [react-router](https://github.com/ReactTraining/react-router)
 * [react-bootstrap](https://react-bootstrap.github.io/)
+* [react-beautiful-dnd, Beautiful, accessible drag and drop for lists with React.js](https://github.com/atlassian/react-beautiful-dnd)
 
 
 ### HARDWARE
