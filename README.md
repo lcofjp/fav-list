@@ -31,6 +31,7 @@
 * [highlight.js](https://github.com/isagalaev/highlight.js)
 * [mongoose](http://mongoosejs.com/)
 * [jsbooks](http://jsbooks.revolunet.com/)
+* [http://httparchive.org/interesting.php](http://httparchive.org/interesting.php)
 
 #### 函数式JavaScript
 * [Ramda](http://ramdajs.com/)
