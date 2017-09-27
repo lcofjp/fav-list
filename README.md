@@ -2,13 +2,10 @@
 
 ## 网址收藏夹
 ### WEB
-* [CSS标准](https://www.w3.org/TR/) 
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [Bitbucket Markdown语法参考](https://bitbucket.org/tutorials/markdowndemo) 
 * [React](https://facebook.github.io/react/)  
 * [Express middleware](https://expressjs.com/en/resources/middleware) 
-* [Bootstrap ](http://getbootstrap.com/) 
-* [Foundation: responsive front-end framework](http://foundation.zurb.com/)
 * [Pug.js Getting Start](https://pugjs.org/api/getting-started.html) 
 * [Scala.js](http://www.scala-js.org/)
 * [IETF Documents](https://tools.ietf.org/html/)
@@ -33,7 +30,14 @@
 * [jsbooks](http://jsbooks.revolunet.com/)
 * [http://httparchive.org/interesting.php](http://httparchive.org/interesting.php)
 * [Google's Performance Best Practices](https://developers.google.com/speed/docs/insights/rules)
+#### CSS相关
+* [CSS标准](https://www.w3.org/TR/) 
+* [Foundation: responsive front-end framework](http://foundation.zurb.com/)
+* [Bootstrap ](http://getbootstrap.com/) 
 * [颜色渐变编辑器](http://www.colorzilla.com/gradient-editor/)
+* [忙指示器](http://dabblet.com/gist/7615212)
+* [CSS形状](https://css-tricks.com/examples/ShapesOfCSS/)
+* [重复样式](http://lea.verou.me/css3patterns/)
 
 #### 函数式JavaScript
 * [Ramda](http://ramdajs.com/)
@@ -72,4 +76,4 @@
 
 
 -----
-[link to lcofjp.com](http://lcofjp.com "lcofjp.com") welcome
+link to [lcofjp.com](http://lcofjp.com "lcofjp.com") welcome
