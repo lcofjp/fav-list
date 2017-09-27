@@ -33,6 +33,7 @@
 * [jsbooks](http://jsbooks.revolunet.com/)
 * [http://httparchive.org/interesting.php](http://httparchive.org/interesting.php)
 * [Google's Performance Best Practices](https://developers.google.com/speed/docs/insights/rules)
+* [颜色渐变编辑器](http://www.colorzilla.com/gradient-editor/)
 
 #### 函数式JavaScript
 * [Ramda](http://ramdajs.com/)
