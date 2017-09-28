@@ -30,6 +30,7 @@
 * [jsbooks](http://jsbooks.revolunet.com/)
 * [http://httparchive.org/interesting.php](http://httparchive.org/interesting.php)
 * [Google's Performance Best Practices](https://developers.google.com/speed/docs/insights/rules)
+* [Golang datastructure and algorithms](http://www.golangprograms.com/data-structure-and-algorithms.html)
 #### CSS相关
 * [CSS标准](https://www.w3.org/TR/) 
 * [Foundation: responsive front-end framework](http://foundation.zurb.com/)
