@@ -32,6 +32,7 @@
 * [Google's Performance Best Practices](https://developers.google.com/speed/docs/insights/rules)
 * [Golang datastructure and algorithms](http://www.golangprograms.com/data-structure-and-algorithms.html)
 * [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/WCAG20/quickref/)
+* [The AI color tool for designers](http://khroma.co/)
 #### CSS相关
 * [CSS标准](https://www.w3.org/TR/) 
 * [Foundation: responsive front-end framework](http://foundation.zurb.com/)
