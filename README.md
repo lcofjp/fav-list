@@ -75,6 +75,7 @@
 
 ### Articles
 * [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
+* [What is This in JavaScript](https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/)
 
 ---
 
