@@ -64,6 +64,7 @@
 * [LinkIt Smart 7688 Duo - Seeed Wiki](http://wiki.seeed.cc/LinkIt_Smart_7688_Duo/#installing-developed-board-support-package)
 * [Arduino - Reference](https://www.arduino.cc/en/Reference/HomePage)
 * [LM3S9B96 | LM3S Cortex-M3 Series | Control + Automation | Technical documents](http://www.ti.com/product/LM3S9B96/technicaldocuments)
+* [Flow Control](http://www.pccompci.com/Flow_Control.html)
 
 ### OTHER
 * [placekitten](http://placekitten.com/)
