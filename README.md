@@ -34,6 +34,7 @@
 * [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/WCAG20/quickref/)
 * [The AI color tool for designers](http://khroma.co/)
 * [customize font](https://www.fontsquirrel.com/tools/webfont-generator)
+* [ICON](https://www.flaticon.com/)
 #### CSS相关
 * [CSS标准](https://www.w3.org/TR/) 
 * [Foundation: responsive front-end framework](http://foundation.zurb.com/)
