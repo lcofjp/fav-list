@@ -37,6 +37,7 @@
 * [ICON](https://www.flaticon.com/)
 * [High Performance Browser Networking](https://hpbn.co/)
 #### CSS相关
+* [css-tricks](https://css-tricks.com)
 * [CSS标准](https://www.w3.org/TR/) 
 * [Foundation: responsive front-end framework](http://foundation.zurb.com/)
 * [Bootstrap ](http://getbootstrap.com/) 
@@ -79,6 +80,7 @@
 ### Articles
 * [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
 * [What is This in JavaScript](https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/)
+* [Making a Pure CSS Play/Pause Button](https://css-tricks.com/making-pure-css-playpause-button/)
 
 ---
 
