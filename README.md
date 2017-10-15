@@ -45,6 +45,7 @@
 * [忙指示器](http://dabblet.com/gist/7615212)
 * [CSS形状](https://css-tricks.com/examples/ShapesOfCSS/)
 * [重复样式](http://lea.verou.me/css3patterns/)
+* [css secrets(CSS揭秘) code examples](http://play.csssecrets.io/)
 
 #### 函数式JavaScript
 * [Ramda](http://ramdajs.com/)
