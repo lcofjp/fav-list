@@ -36,6 +36,7 @@
 * [customize font](https://www.fontsquirrel.com/tools/webfont-generator)
 * [ICON](https://www.flaticon.com/)
 * [High Performance Browser Networking](https://hpbn.co/)
+* [PHP The Right Way](http://www.phptherightway.com/)
 #### CSS相关
 * [css-tricks](https://css-tricks.com)
 * [CSS标准](https://www.w3.org/TR/) 
@@ -46,7 +47,7 @@
 * [CSS形状](https://css-tricks.com/examples/ShapesOfCSS/)
 * [重复样式](http://lea.verou.me/css3patterns/)
 * [css secrets(CSS揭秘) code examples](http://play.csssecrets.io/)
-* [PHP The Right Way](http://www.phptherightway.com/)
+
 
 #### 函数式JavaScript
 * [Ramda](http://ramdajs.com/)
