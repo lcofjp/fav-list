@@ -37,6 +37,7 @@
 * [ICON](https://www.flaticon.com/)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [PHP The Right Way](http://www.phptherightway.com/)
+* [cnpm](http://riny.net/2014/cnpm/)
 #### CSS相关
 * [css-tricks](https://css-tricks.com)
 * [CSS标准](https://www.w3.org/TR/) 
