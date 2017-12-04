@@ -70,6 +70,7 @@
 * [Arduino - Reference](https://www.arduino.cc/en/Reference/HomePage)
 * [LM3S9B96 | LM3S Cortex-M3 Series | Control + Automation | Technical documents](http://www.ti.com/product/LM3S9B96/technicaldocuments)
 * [Flow Control](http://www.pccompci.com/Flow_Control.html)
+* [http://blog.japaric.io/](http://blog.japaric.io/)
 
 ### OTHER
 * [placekitten](http://placekitten.com/)
