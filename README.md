@@ -48,6 +48,7 @@
 * [CSS形状](https://css-tricks.com/examples/ShapesOfCSS/)
 * [重复样式](http://lea.verou.me/css3patterns/)
 * [css secrets(CSS揭秘) code examples](http://play.csssecrets.io/)
+* [CSS权威指南 第四版 示例代码](https://github.com/meyerweb/csstdg4figs)
 
 
 #### 函数式JavaScript
