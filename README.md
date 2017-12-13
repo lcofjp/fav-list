@@ -92,6 +92,7 @@
 * [Making a Pure CSS Play/Pause Button](https://css-tricks.com/making-pure-css-playpause-button/)
 * [跨域资源共享 CORS 详解-阮一峰](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 * [浅谈几种跨域的方法](https://wangningbo93.github.io/2017/06/16/%E6%B5%85%E8%B0%88%E5%87%A0%E7%A7%8D%E8%B7%A8%E5%9F%9F%E7%9A%84%E6%96%B9%E6%B3%95/)
+* [浮点数转整数](https://stackoverflow.com/questions/596467/how-do-i-convert-a-float-number-to-a-whole-number-in-javascript)
 
 
 ---
