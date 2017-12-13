@@ -65,6 +65,8 @@
 * [react-bootstrap](https://react-bootstrap.github.io/)
 * [react-beautiful-dnd, Beautiful, accessible drag and drop for lists with React.js](https://github.com/atlassian/react-beautiful-dnd)
 
+### Rust Programming Language
+* [this-week-in-rust](https://this-week-in-rust.org/)
 
 ### HARDWARE
 * [Mounting the root FS on an SD card - LinkIt Smart 7688 Resources](https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/file-storage/mounting-the-root-fs-on-an-sd-card)
