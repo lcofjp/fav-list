@@ -76,6 +76,7 @@
 * [LM3S9B96 | LM3S Cortex-M3 Series | Control + Automation | Technical documents](http://www.ti.com/product/LM3S9B96/technicaldocuments)
 * [Flow Control](http://www.pccompci.com/Flow_Control.html)
 * [http://blog.japaric.io/](http://blog.japaric.io/)
+* [http://nodebots.io/](http://nodebots.io/)
 
 ### OTHER
 * [placekitten](http://placekitten.com/)
