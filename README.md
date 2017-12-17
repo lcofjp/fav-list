@@ -88,6 +88,8 @@
 * [An Introduction to TrueType Fonts: A look inside the TTF format](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=iws-chapter08)
 * [How To Draw TrueType Glyph Outlines](https://support.microsoft.com/en-us/help/243285/how-to-draw-truetype-glyph-outlines)
 * [Foreign function interface](https://en.wikipedia.org/wiki/Foreign_function_interface)
+* [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML)
+* [MathJax](https://github.com/mathjax/mathjax)
 
 ### Articles
 * [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
