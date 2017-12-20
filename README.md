@@ -67,6 +67,7 @@
 
 ### Rust Programming Language
 * [this-week-in-rust](https://this-week-in-rust.org/)
+* [rust module essentials](https://dev.to/hertz4/rust-module-essentials-12oi)
 
 ### HARDWARE
 * [Mounting the root FS on an SD card - LinkIt Smart 7688 Resources](https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/file-storage/mounting-the-root-fs-on-an-sd-card)
@@ -99,6 +100,7 @@
 * [浅谈几种跨域的方法](https://wangningbo93.github.io/2017/06/16/%E6%B5%85%E8%B0%88%E5%87%A0%E7%A7%8D%E8%B7%A8%E5%9F%9F%E7%9A%84%E6%96%B9%E6%B3%95/)
 * [浮点数转整数](https://stackoverflow.com/questions/596467/how-do-i-convert-a-float-number-to-a-whole-number-in-javascript)
 * [javascript-physics-with-matter-js](http://codersblock.com/blog/javascript-physics-with-matter-js/)
+* [javascript函数组合](https://advancedweb.hu/2017/12/19/functional_composition/)
 
 
 ---
