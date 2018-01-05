@@ -102,7 +102,7 @@
 * [浮点数转整数](https://stackoverflow.com/questions/596467/how-do-i-convert-a-float-number-to-a-whole-number-in-javascript)
 * [javascript-physics-with-matter-js](http://codersblock.com/blog/javascript-physics-with-matter-js/)
 * [javascript函数组合](https://advancedweb.hu/2017/12/19/functional_composition/)
-
+* [fetch用法](https://davidwalsh.name/fetch)
 
 ---
 
