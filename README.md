@@ -2,6 +2,7 @@
 
 ## 网址收藏夹
 ### WEB
+* [WebAssembly](https://webassembly.org/)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [Bitbucket Markdown语法参考](https://bitbucket.org/tutorials/markdowndemo) 
 * [React](https://facebook.github.io/react/)  
