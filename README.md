@@ -69,6 +69,9 @@
 ### Rust Programming Language
 * [this-week-in-rust](https://this-week-in-rust.org/)
 * [rust module essentials](https://dev.to/hertz4/rust-module-essentials-12oi)
+* [rust cookbook](https://github.com/rust-lang-nursery/rust-cookbook)
+* [rust by example](https://github.com/rust-lang/rust-by-example)
+* [rust爬虫](https://codeburst.io/web-scraping-in-rust-881b534a60f7)
 
 ### HARDWARE
 * [Mounting the root FS on an SD card - LinkIt Smart 7688 Resources](https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/file-storage/mounting-the-root-fs-on-an-sd-card)
