@@ -2,6 +2,7 @@
 
 ## 网址收藏夹
 ### WEB
+* [html5test](http://html5test.com/)
 * [WebAssembly](https://webassembly.org/)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [Bitbucket Markdown语法参考](https://bitbucket.org/tutorials/markdowndemo) 
