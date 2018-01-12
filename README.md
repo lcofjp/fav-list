@@ -99,6 +99,7 @@
 * [MathJax](https://github.com/mathjax/mathjax)
 * [符号字符](http://copychar.cc/)
 * [http://plantuml.com/](http://plantuml.com/)
+* [VLC](https://www.videolan.org/)
 
 ### Articles
 * [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
