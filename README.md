@@ -100,6 +100,7 @@
 * [符号字符](http://copychar.cc/)
 * [http://plantuml.com/](http://plantuml.com/)
 * [VLC](https://www.videolan.org/)
+- [Java Specifications](https://docs.oracle.com/javase/specs/index.html)
 
 ### Articles
 * [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
