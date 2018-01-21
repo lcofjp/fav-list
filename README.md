@@ -81,6 +81,11 @@
 * [rust by example](https://github.com/rust-lang/rust-by-example)
 * [rust爬虫](https://codeburst.io/web-scraping-in-rust-881b534a60f7)
 
+### Java & Scala & Clojure
+
+- [playframework](https://playframework.com/)
+- [scalatra](http://scalatra.org/)
+
 ### HARDWARE
 * [Mounting the root FS on an SD card - LinkIt Smart 7688 Resources](https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/file-storage/mounting-the-root-fs-on-an-sd-card)
 * [Particle Reference Documentation | Firmware](https://docs.particle.io/reference/firmware/photon/#time)
