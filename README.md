@@ -45,7 +45,7 @@
 
 #### JavaScript相关
 
-- [survivejs, webpack, react](https://survivejs.com/)
+- [survivejs.com(webpack, react等)](https://survivejs.com/)
 
 #### CSS相关
 * [css-tricks](https://css-tricks.com)
