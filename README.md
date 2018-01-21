@@ -42,6 +42,11 @@
 * [cnpm](http://riny.net/2014/cnpm/)
 * [目前比较流行的前端框架比较(2017-11-10)](https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/)
 * [javascript-drawing-libraries-diagrams](https://modeling-languages.com/javascript-drawing-libraries-diagrams/)
+
+#### JavaScript相关
+
+- [survivejs, webpack, react](https://survivejs.com/)
+
 #### CSS相关
 * [css-tricks](https://css-tricks.com)
 * [CSS标准](https://www.w3.org/TR/) 
