@@ -86,7 +86,8 @@
 - [playframework](https://playframework.com/)
 - [scalatra](http://scalatra.org/)
 - [lift](https://www.liftweb.net/)
-- [spray.io/](http://spray.io/)
+- [akka](https://akka.io/)
+- [akka-http](https://github.com/akka/akka-http)
 
 ### HARDWARE
 * [Mounting the root FS on an SD card - LinkIt Smart 7688 Resources](https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/file-storage/mounting-the-root-fs-on-an-sd-card)
