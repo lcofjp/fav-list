@@ -88,6 +88,7 @@
 - [lift](https://www.liftweb.net/)
 - [akka](https://akka.io/)
 - [akka-http](https://github.com/akka/akka-http)
+- [opengl for java](https://jogamp.org/jogl/www/)
 
 ### HARDWARE
 * [Mounting the root FS on an SD card - LinkIt Smart 7688 Resources](https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/file-storage/mounting-the-root-fs-on-an-sd-card)
