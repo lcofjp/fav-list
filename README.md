@@ -130,6 +130,15 @@
 
 ---
 
+### 大杂烩
 
------
-link to [lcofjp.com](http://lcofjp.com "lcofjp.com") welcome
+- [Processing](https://processing.org/)
+- [Processing.js 在浏览器中使用Processing](https://github.com/processing-js/processing-js/)
+- [Cinder - free and open source library for professional-quality creative coding in C++](https://libcinder.org/)
+- [openFrameworks - an open source C++ toolkit for creative coding](http://openframeworks.cc/)
+
+---
+
+- [List of JVM languages](https://en.wikipedia.org/wiki/List_of_JVM_languages)
+- [List of CLI languages](https://en.wikipedia.org/wiki/List_of_CLI_languages)
+
