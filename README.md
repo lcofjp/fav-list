@@ -90,6 +90,7 @@
 - [akka-http](https://github.com/akka/akka-http)
 - [opengl for java](https://jogamp.org/jogl/www/)
 - [Scala.js](http://www.scala-js.org/)
+- [Java Specifications](https://docs.oracle.com/javase/specs/index.html)
 
 ### HARDWARE
 - [Mounting the root FS on an SD card - LinkIt Smart 7688 Resources](https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/file-storage/mounting-the-root-fs-on-an-sd-card)
@@ -106,7 +107,6 @@
 - [每天一本编程书](https://salttiger.com/)
 - [Unicode 9.0 Character Code Charts](http://www.unicode.org/charts/)
 - [ColRD: Create and share color inspiration with the world](http://colrd.com/)
-- [GLT - OpenGL C++ Toolkit](http://www.nigels.com/glt/)
 - [visual studio c/c++函数实例映射](https://msdn.microsoft.com/library/tsbaswba(v=vs.110).aspx)
 - [An Introduction to TrueType Fonts: A look inside the TTF format](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=iws-chapter08)
 - [How To Draw TrueType Glyph Outlines](https://support.microsoft.com/en-us/help/243285/how-to-draw-truetype-glyph-outlines)
@@ -116,7 +116,6 @@
 - [符号字符](http://copychar.cc/)
 - [http://plantuml.com/](http://plantuml.com/)
 - [VLC](https://www.videolan.org/)
-- [Java Specifications](https://docs.oracle.com/javase/specs/index.html)
 
 ### Articles
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
@@ -137,6 +136,7 @@
 - [Processing.js 在浏览器中使用Processing](https://github.com/processing-js/processing-js/)
 - [Cinder - free and open source library for professional-quality creative coding in C++](https://libcinder.org/)
 - [openFrameworks - an open source C++ toolkit for creative coding](http://openframeworks.cc/)
+- [GLT - OpenGL C++ Toolkit](http://www.nigels.com/glt/)
 
 ---
 
