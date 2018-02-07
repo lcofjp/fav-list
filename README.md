@@ -31,7 +31,6 @@
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/WCAG20/quickref/)
 - [The AI color tool for designers](http://khroma.co/)
 - [customize font](https://www.fontsquirrel.com/tools/webfont-generator)
-- [ICON](https://www.flaticon.com/)
 - [High Performance Browser Networking](https://hpbn.co/)
 - [PHP The Right Way](http://www.phptherightway.com/)
 - [cnpm](http://riny.net/2014/cnpm/)
@@ -60,6 +59,18 @@
 - [CSS权威指南 第四版 示例代码](https://github.com/meyerweb/csstdg4figs)
 - [水平和垂直居中](https://css-tricks.com/centering-css-complete-guide/)
 
+#### GLYPH ICON
+
+- [http://glyph.smarticons.co/](http://glyph.smarticons.co/)
+- [https://octicons.github.com/](https://octicons.github.com/)
+- [https://useiconic.com/open/](https://useiconic.com/open/)
+- [https://github.com/danklammer/bytesize-icons](https://github.com/danklammer/bytesize-icons)
+- [https://material.io/icons/](https://material.io/icons/)
+- [http://ionicons.com/](http://ionicons.com/)
+- [https://feathericons.com/](https://feathericons.com/)
+- [http://demo.amitjakhu.com/dripicons/](http://demo.amitjakhu.com/dripicons/)
+- [http://ikons.piotrkwiatkowski.co.uk/](http://ikons.piotrkwiatkowski.co.uk/)
+- [ICON](https://www.flaticon.com/)
 
 #### 函数式JavaScript
 - [Ramda](http://ramdajs.com/)
