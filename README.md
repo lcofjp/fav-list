@@ -1,6 +1,11 @@
 
 ## 网址收藏夹
 
+### 编程语言
+
+- [scala](https://github.com/scala/scala)
+- [Nim](https://github.com/nim-lang/Nim)
+
 ### WEB
 - [html5test](http://html5test.com/)
 - [WebAssembly](https://webassembly.org/)
