@@ -78,7 +78,7 @@
 - [【Presentation】impress.js](https://github.com/impress/impress.js)
 - [【Presentation】reveal.js](https://github.com/hakimel/reveal.js)
 
-### React相关
+#### React相关
 - [React](https://facebook.github.io/react/)  
 - [react-redux](https://github.com/reactjs/react-redux)
 - [react-router](https://github.com/ReactTraining/react-router)
@@ -159,7 +159,7 @@
 - [Scala.js](http://www.scala-js.org/)
 - [Java Specifications](https://docs.oracle.com/javase/specs/index.html)
 
-### HARDWARE
+### 电子电路/单片机
 
 - [javascript on mbed](https://os.mbed.com/javascript-on-mbed/)
 - [Mounting the root FS on an SD card - LinkIt Smart 7688 Resources](https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/file-storage/mounting-the-root-fs-on-an-sd-card)
@@ -171,7 +171,7 @@
 - [http://blog.japaric.io/](http://blog.japaric.io/)
 - [http://nodebots.io/](http://nodebots.io/)
 
-### OTHER
+### 其他
 
 - [每天一本编程书](https://salttiger.com/)
 - [Unicode 9.0 Character Code Charts](http://www.unicode.org/charts/)
