@@ -83,14 +83,13 @@
 - [react-redux](https://github.com/reactjs/react-redux)
 - [react-router](https://github.com/ReactTraining/react-router)
 - [react-bootstrap](https://react-bootstrap.github.io/)
-- [react-beautiful-dnd, Beautiful, accessible drag and drop for lists with React.js](https://github.com/atlassian/react-beautiful-dnd)
+- [react-beautiful-dnd - React列表拖拽](https://github.com/atlassian/react-beautiful-dnd)
 
 #### JavaScript库
 
 - [【订阅/发布库】postal.js](https://github.com/postaljs/postal.js)
 - [文件上传uppy](https://github.com/transloadit/uppy)
 - [draggable - 拖拽库](https://github.com/Shopify/draggable)
-- [eact-beautiful-dnd - 拖拽](https://github.com/atlassian/react-beautiful-dnd)
 - [clipboard.js - 剪切板](https://github.com/zenorocha/clipboard.js)
 - [isomorphic-fetch for Node & Browserify](https://github.com/matthew-andrews/isomorphic-fetch)
 - [mobx - 状态管理](https://github.com/mobxjs/mobx)
