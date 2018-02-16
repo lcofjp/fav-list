@@ -167,6 +167,7 @@
 - [Examples of Design Patterns in java](http://designpattern.co.il/)
 - [Design Patterns in Javascript by Tomás Corral](https://github.com/tcorral/Design-Patterns-in-Javascript)
 - [Design Patterns in Dynamic Languages](http://norvig.com/design-patterns/)
+- [设计模式、反模式、重构、UML](https://sourcemaking.com/)
 
 ### 电子电路/单片机
 
