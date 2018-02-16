@@ -158,6 +158,16 @@
 - [Scala.js](http://www.scala-js.org/)
 - [Java Specifications](https://docs.oracle.com/javase/specs/index.html)
 
+### 设计模式（design pattern)
+
+- 《设计模式：可复用面向对象软件的基础》GoF
+- 《Scala与Clojure函数式编程模式：Java虚拟机高效编程》
+- [wikipedia - design pattern](https://en.wikipedia.org/wiki/Design_pattern)
+- [wikipedia - Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
+- [Examples of Design Patterns in java](http://designpattern.co.il/)
+- [Design Patterns in Javascript by Tomás Corral](https://github.com/tcorral/Design-Patterns-in-Javascript)
+- [Design Patterns in Dynamic Languages](http://norvig.com/design-patterns/)
+
 ### 电子电路/单片机
 
 - [javascript on mbed](https://os.mbed.com/javascript-on-mbed/)
