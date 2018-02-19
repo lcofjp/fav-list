@@ -117,7 +117,8 @@
 - [layui](https://github.com/sentsin/layui)
 - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
 - [Foundation: responsive front-end framework](http://foundation.zurb.com/)
-- [Bootstrap ](http://getbootstrap.com/) 
+- [Bootstrap ](http://getbootstrap.com/)
+- [ui-patterns.com](http://ui-patterns.com/)
 
 #### GLYPH ICON
 
@@ -130,10 +131,12 @@
 - [https://feathericons.com/](https://feathericons.com/)
 - [http://demo.amitjakhu.com/dripicons/](http://demo.amitjakhu.com/dripicons/)
 - [http://ikons.piotrkwiatkowski.co.uk/](http://ikons.piotrkwiatkowski.co.uk/)
-- [flaticon](https://www.flaticon.com/)
+- [www.flaticon.com](https://www.flaticon.com/)
 
 #### Color
 
+- [colormatters](https://www.colormatters.com/)
+- [color-calculator](https://www.sessions.edu/color-calculator/)
 - [ColRD: Create and share color inspiration with the world](http://colrd.com/)
 - [open-color](https://yeun.github.io/open-color/)
 - [The AI color tool for designers](http://khroma.co/)
