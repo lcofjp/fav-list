@@ -231,3 +231,7 @@
 - [编程语言比较(wikipedia)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 - [各种编程语言示例代码参考(rosettacode)](http://rosettacode.org/wiki/Category:Programming_Languages)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+
+---
+
+- [Dr. Axel Rauschmayer大神](http://dr-axel.de/)
