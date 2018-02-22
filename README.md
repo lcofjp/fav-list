@@ -5,6 +5,7 @@
 
 - [scala](https://github.com/scala/scala)
 - [Nim](https://github.com/nim-lang/Nim)
+- [Reason](https://github.com/facebook/reason)
 
 ### WEB
 
@@ -234,4 +235,4 @@
 
 ---
 
-- [Dr. Axel Rauschmayer大神](http://dr-axel.de/)
+- [Dr. Axel Rauschmayer(JavaScript大神)](http://dr-axel.de/)
