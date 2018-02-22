@@ -33,7 +33,6 @@
 - [Golang datastructure and algorithms](http://www.golangprograms.com/data-structure-and-algorithms.html)
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/WCAG20/quickref/)
 - [customize font](https://www.fontsquirrel.com/tools/webfont-generator)
-- [High Performance Browser Networking](https://hpbn.co/)
 - [PHP The Right Way](http://www.phptherightway.com/)
 - [cnpm](http://riny.net/2014/cnpm/)
 
@@ -240,3 +239,4 @@
 ### HTML版书籍
 
 - [Real World OCaml Functional programming for the masses](https://realworldocaml.org/)
+- [High Performance Browser Networking](https://hpbn.co/)
