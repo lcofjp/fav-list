@@ -65,7 +65,7 @@
 - [【动画】tween.js](https://github.com/tweenjs/tween.js)
 - [popmotion - A functional, reactive animation library](https://github.com/Popmotion/popmotion)
 - [【Canvas,SVG】fabric.js](https://github.com/kangax/fabric.js)
-- [[Vector Graphics Scripting]paper.js](https://github.com/paperjs/paper.js)
+- [【Vector Graphics Scripting】paper.js](https://github.com/paperjs/paper.js)
 - [raphael - Vector Library](https://github.com/DmitryBaranovskiy/raphael)
 - [p5.js](https://github.com/processing/p5.js)
 - [【图表】g2](https://github.com/antvis/g2)
@@ -77,6 +77,7 @@
 - [pixi.js - HTML5 Creation Engine](https://github.com/pixijs/pixi.js)
 - [【Presentation】impress.js](https://github.com/impress/impress.js)
 - [【Presentation】reveal.js](https://github.com/hakimel/reveal.js)
+- [remark - A simple, in-browser, markdown-driven slideshow tool](https://github.com/gnab/remark)
 
 #### React相关
 - [React](https://facebook.github.io/react/)  
