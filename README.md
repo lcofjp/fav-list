@@ -91,6 +91,7 @@
 
 - [【订阅/发布库】postal.js](https://github.com/postaljs/postal.js)
 - [文件上传uppy](https://github.com/transloadit/uppy)
+- [dragula - 拖拽库](https://github.com/bevacqua/dragula)
 - [draggable - 拖拽库](https://github.com/Shopify/draggable)
 - [clipboard.js - 剪切板](https://github.com/zenorocha/clipboard.js)
 - [isomorphic-fetch for Node & Browserify](https://github.com/matthew-andrews/isomorphic-fetch)
