@@ -112,6 +112,7 @@
 
 #### UI
 
+- [materialize](https://github.com/Dogfalo/materialize)
 - [amazeui](https://github.com/amazeui/amazeui)
 - [framework7](https://github.com/framework7io/framework7)
 - [ant-design](https://github.com/ant-design/ant-design-pro)
