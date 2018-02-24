@@ -242,3 +242,4 @@
 
 - [Real World OCaml Functional programming for the masses](https://realworldocaml.org/)
 - [High Performance Browser Networking](https://hpbn.co/)
+- [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS)
