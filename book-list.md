@@ -69,7 +69,7 @@
 1. 《运算放大器权威指南》 (第4版) <Op Amps for Everyone, 4E> ([美]Bruce Carter著)
 1. 《计算机图形学》 (第2版) (何援军 编著)
 1. 《交互式计算机图形学 ——基于WebGL的自顶向下方法》(第七版) <Interactive COmputer Graphics: A Top-Down Approach with WebGL, Seventh Edition>
-1. 《3D游戏与计算机图形学中的数学方法》 (第3版) <Mathematics for 3D Game Programming and Computer Graphics, Third Edition> ([美]Eric Lengyel著)
+1. 《3D游戏与计算机图形学中的数学方法》 (第3版) <Mathematics for 3D Game Programming and Computer Graphics, Third Edition> ([美]Eric Lengyel著)
 1. 《线性代数应该这样学》(第2版) <Linear Algebra Done Right> ([美]Sheldon Axler著)
 1. 《深入理解程序设计 使用Linux汇编语言》 <Programming from the Ground Up> ([美]Jonathan Bartlett著)
 1. 《实战ES2015 深入现代JavaScript应用开发》 (小问 著)
