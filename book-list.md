@@ -62,14 +62,14 @@
 1. 《OpenCV图像处理》 <Learning Image Processing with OpenCV>
 1. 《Git权威指南》 (蒋鑫 著)
 1. 《Sass与Compass实战》 <Sass and Compass in Action>
-1. 《Effective Modern C++》 改善C++11和C++14的42个具体做法(影印版) (Scott Meyers著)
-1. 《剑指Offer 名企面试官精讲典型编程题》 (何海涛 著)
+1. 《Effective Modern C++》 改善C++11和C++14的42个具体做法(影印版) (Scott Meyers著)
+1. 《剑指Offer 名企面试官精讲典型编程题》 (何海涛 著)
 1. 《编写高质量代码 改善C程序代码的125个建议》 (马伟 著)
 1. 《数据压缩导论》(第4版) <Introduction to Data Compression, Fourth Edition> ([美]Khalid Sayood著)
 1. 《运算放大器权威指南》 (第4版) <Op Amps for Everyone, 4E> ([美]Bruce Carter著)
-1. 《计算机图形学》 (第2版) (何援军 编著)
+1. 《计算机图形学》 (第2版) (何援军 编著)
 1. 《交互式计算机图形学 ——基于WebGL的自顶向下方法》(第七版) <Interactive COmputer Graphics: A Top-Down Approach with WebGL, Seventh Edition>
-1. 《3D游戏与计算机图形学中的数学方法》 (第3版) <Mathematics for 3D Game Programming and Computer Graphics, Third Edition> ([美]Eric Lengyel著)
+1. 《3D游戏与计算机图形学中的数学方法》 (第3版) <Mathematics for 3D Game Programming and Computer Graphics, Third Edition> ([美]Eric Lengyel著)
 1. 《线性代数应该这样学》(第2版) <Linear Algebra Done Right> ([美]Sheldon Axler著)
 1. 《深入理解程序设计 使用Linux汇编语言》 <Programming from the Ground Up> ([美]Jonathan Bartlett著)
 1. 《实战ES2015 深入现代JavaScript应用开发》 (小问 著)
@@ -127,15 +127,15 @@
 1. 《JavaScript框架设计（第2版）》
 1. 《Elixir程序设计》 <Programming Elixir>
 1. 《Erlang程序设计（第2版）》 <Programming Erlang: Software for a Concurrent World, Second Edition>
-1. 《数字信号处理 原理、实现及应用 基于MATLAB/Simulink与TMS320C55xx DSP的实现方法（原书第3版）》 <Real-Time Digital Signal Processing: Fundamentals, Implementations and Applications, Third Edition>
+1. 《数字信号处理 原理、实现及应用 基于MATLAB/Simulink与TMS320C55xx DSP的实现方法（原书第3版）》 <Real-Time Digital Signal Processing: Fundamentals, Implementations and Applications, Third Edition>
 1. 《基于ARM Cortex-M4的DSP系统开发》 <Digital Signal Processing: Using the ARM Cortex-M4>
 1. 《ARM Cortex-M3与Cortex-M4权威指南》（第3版） <The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors, Third Edition>
-1. 《jQuery实战》 （第三版） &lt;jQuery in Action, Third Edition>
+1. 《jQuery实战》 （第三版） &lt;jQuery in Action, Third Edition>
 1. 《UNIX编程艺术》 <The Art of UNIX Programming>
-1. 《编程原本》 <Elements of Programming>
+1. 《编程原本》 <Elements of Programming>
 1. 《CSS权威指南》（第三版） <CSS: The Definitive Guide>
 1. 《React Native开发指南》 <Learning React Native>
-1. 《函数式算法设计珠玑》 <Pearls of Functional Algorithm Design>
+1. 《函数式算法设计珠玑》 <Pearls of Functional Algorithm Design>
 1. 《数学与泛型编程 高效编程的奥秘》 <From Mathematics to Generic Programming>
 1. 《ES6标准入门》 （第2版） 阮一峰 著
 1. 《深入理解ES6》 <Understanding ECMAScript 6>
@@ -143,5 +143,5 @@
 1. 《Go程序设计语言》 <The Go Programming Language>
 1. 《计算机程序的构造和解释》 （原书第2版） (Structure and Interpretation of Computer Programs, Second Edition)
 1. 《编译原理》(第2版) <Compilers: Principles, Techniques and Tools, Second Edition>
-1. 《苹果开发之Cocoa编程》（原书第4版） <Cocoa Programming for Mac OS X, Fourth Edition>
+1. 《苹果开发之Cocoa编程》（原书第4版） <Cocoa Programming for Mac OS X, Fourth Edition>
 1. 《微信公众平台应用开发实践》 （第2版）
