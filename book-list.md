@@ -145,3 +145,4 @@
 1. 《编译原理》(第2版) <Compilers: Principles, Techniques and Tools, Second Edition>
 1. 《苹果开发之Cocoa编程》（原书第4版） <Cocoa Programming for Mac OS X, Fourth Edition>
 1. 《微信公众平台应用开发实践》 （第2版）
+1. 《图解机器学习》
