@@ -146,3 +146,15 @@
 1. 《苹果开发之Cocoa编程》（原书第4版） <Cocoa Programming for Mac OS X, Fourth Edition>
 1. 《微信公众平台应用开发实践》 （第2版）
 1. 《图解机器学习》
+1. 《OpenGL SuperBible, Seventh Edition, Comprehensive Tutorial and Reference》
+1. 《3D游戏设计引擎设计：实时计算机图形学的应用方法》（第2版）
+1. 《MySQL必知必会》 <MySQL Crash Course>
+1. 《单页Web应用： JavaScript从前端到后端》 <Single Page Web Apllications>
+1. 《WebGL编程指南》 <WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL>
+1. 《奇妙数学史》
+1. 《Node即学即用》
+1. 《Ruby基础教程》（第4版）
+1. 《OpenGL ES 3.0 编程指南》（原书第2版）
+1. 《松本行弘的程序世界》
+1. 《HTML5 Canvas核心技术 图形、动画与游戏开发》
+1. 《HTML5游戏开发实践指南》
