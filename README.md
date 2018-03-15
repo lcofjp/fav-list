@@ -36,6 +36,7 @@
 - [customize font](https://www.fontsquirrel.com/tools/webfont-generator)
 - [PHP The Right Way](http://www.phptherightway.com/)
 - [cnpm](http://riny.net/2014/cnpm/)
+- [free, automated, and open Certificate Authority](https://letsencrypt.org/)
 
 ### JavaScript
 
@@ -110,6 +111,7 @@
 - [css secrets(CSS揭秘) code examples](http://play.csssecrets.io/)
 - [CSS权威指南 第四版 示例代码](https://github.com/meyerweb/csstdg4figs)
 - [水平和垂直居中](https://css-tricks.com/centering-css-complete-guide/)
+- [布局](https://juejin.im/post/5aa252ac518825558001d5de)
 
 #### UI
 
