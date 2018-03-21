@@ -1,6 +1,10 @@
 
 ## 网址收藏夹
 
+### 在线编辑器
+
+- [c9.io](https://c9.io/)
+
 ### 编程语言
 
 - [scala](https://github.com/scala/scala)
@@ -36,6 +40,7 @@
 - [customize font](https://www.fontsquirrel.com/tools/webfont-generator)
 - [PHP The Right Way](http://www.phptherightway.com/)
 - [cnpm](http://riny.net/2014/cnpm/)
+- [free, automated, and open Certificate Authority](https://letsencrypt.org/)
 
 ### JavaScript
 
@@ -111,6 +116,7 @@
 - [css secrets(CSS揭秘) code examples](http://play.csssecrets.io/)
 - [CSS权威指南 第四版 示例代码](https://github.com/meyerweb/csstdg4figs)
 - [水平和垂直居中](https://css-tricks.com/centering-css-complete-guide/)
+- [布局](https://juejin.im/post/5aa252ac518825558001d5de)
 
 #### UI
 
@@ -124,6 +130,8 @@
 - [Foundation: responsive front-end framework](http://foundation.zurb.com/)
 - [Bootstrap ](http://getbootstrap.com/)
 - [ui-patterns.com](http://ui-patterns.com/)
+- [Pure.css](https://github.com/pure-css/pure/)
+- [UIkit](https://github.com/uikit/uikit)
 
 #### GLYPH ICON
 
@@ -252,3 +260,4 @@
 - [Real World OCaml Functional programming for the masses](https://realworldocaml.org/)
 - [High Performance Browser Networking](https://hpbn.co/)
 - [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS)
+- [Pro Git](https://git-scm.com/book/en/v2)
