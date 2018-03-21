@@ -81,6 +81,7 @@
 - [remark - A simple, in-browser, markdown-driven slideshow tool](https://github.com/gnab/remark)
 
 #### React相关
+
 - [React](https://facebook.github.io/react/)  
 - [react-redux](https://github.com/reactjs/react-redux)
 - [react-router](https://github.com/ReactTraining/react-router)
@@ -176,6 +177,12 @@
 - [Design Patterns in Javascript by Tomás Corral](https://github.com/tcorral/Design-Patterns-in-Javascript)
 - [Design Patterns in Dynamic Languages](http://norvig.com/design-patterns/)
 - [设计模式、反模式、重构、UML](https://sourcemaking.com/)
+
+### 3D
+
+- [Three.js](https://github.com/mrdoob/three.js)
+- [whs.js 3D framework](https://github.com/WhitestormJS/whs.js)
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
 
 ### 电子电路/单片机
 
