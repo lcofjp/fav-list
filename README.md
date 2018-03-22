@@ -191,6 +191,8 @@
 - [Three.js](https://github.com/mrdoob/three.js)
 - [whs.js 3D framework](https://github.com/WhitestormJS/whs.js)
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+- [glfw](https://github.com/glfw/glfw)
+- [gl3w](https://github.com/skaslev/gl3w)
 
 ### 电子电路/单片机
 
