@@ -193,6 +193,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
 - [glfw](https://github.com/glfw/glfw)
 - [gl3w](https://github.com/skaslev/gl3w)
+- [SDL](https://www.libsdl.org/)
 
 ### 电子电路/单片机
 
