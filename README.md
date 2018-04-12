@@ -68,7 +68,7 @@
 
 - [【表格】handsontable](https://handsontable.com/)
 - [【动画】Velocity.js](https://github.com/julianshapiro/velocity)
-- [【动画】tween.js](https://github.com/tweenjs/tween.js)
+- [【动画】tween.js](https://github.com/tweenjs/tween.js) [create.js](https://createjs.com/)
 - [popmotion - A functional, reactive animation library](https://github.com/Popmotion/popmotion)
 - [【Canvas,SVG】fabric.js](https://github.com/kangax/fabric.js)
 - [【Vector Graphics Scripting】paper.js](https://github.com/paperjs/paper.js)
@@ -105,6 +105,12 @@
 - [tracking.js - 计算机视觉](https://github.com/eduardolundgren/tracking.js)
 - [axios - 基于Promise的Node和浏览器HTTP客户端](https://github.com/axios/axios)
 - [immutable-js](https://github.com/facebook/immutable-js)
+
+#### Node.js相关
+
+- [sails.js](https://sailsjs.com) Node.js中的rails
+- [Adonis Framework](https://github.com/adonisjs/adonis-framework) NodeJs Web Application Framework
+- [seneca](http://senecajs.org/) A microservices toolkit for Node.js
 
 ### CSS相关
 
