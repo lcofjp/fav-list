@@ -264,9 +264,10 @@
 
 - [Dr. Axel Rauschmayer(JavaScript大神)](http://dr-axel.de/)
 
-### HTML版书籍
+### HTML/Markdown版书籍
 
 - [Real World OCaml Functional programming for the masses](https://realworldocaml.org/)
 - [High Performance Browser Networking](https://hpbn.co/)
 - [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS)
 - [Pro Git](https://git-scm.com/book/en/v2)
+- [Functional-Light JavaScript](https://github.com/getify/functional-light-js)
