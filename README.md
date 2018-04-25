@@ -4,6 +4,7 @@
 ### 在线编辑器
 
 - [c9.io](https://c9.io/)
+- [Jupyter Notebook](https://jupyter.org/)
 
 ### 编程语言
 
