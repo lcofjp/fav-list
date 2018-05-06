@@ -218,6 +218,7 @@
 
 - [每天一本编程书](https://salttiger.com/)
 - [GUI编程相关教程](http://zetcode.com/)
+- [C++参考](http://en.cppreference.com/w/)
 - [Unicode 9.0 Character Code Charts](http://www.unicode.org/charts/)
 - [visual studio c/c++函数实例映射](https://msdn.microsoft.com/library/tsbaswba(v=vs.110).aspx)
 - [An Introduction to TrueType Fonts: A look inside the TTF format](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=iws-chapter08)
