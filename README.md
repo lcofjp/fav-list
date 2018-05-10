@@ -233,6 +233,7 @@
 ### 博客/文章
 
 - [webpack主要贡献者的博客](https://medium.com/@sokra)
+- [webpack4新特性](https://dev.to/jesalg/optimizing-front-end-delivery-with-webpack-4-1mm4)
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
 - [What is This in JavaScript](https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/)
 - [Making a Pure CSS Play/Pause Button](https://css-tricks.com/making-pure-css-playpause-button/)
