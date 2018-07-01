@@ -12,7 +12,7 @@
 - [scala](https://github.com/scala/scala)
 - [Nim](https://github.com/nim-lang/Nim)
 - [Reason](https://github.com/facebook/reason)
-- [F#官网](https://fsharp.org/) [F# Guide](https://docs.microsoft.com/en-us/dotnet/fsharp/)
+- [F#官网](https://fsharp.org/) [F# Guide](https://docs.microsoft.com/en-us/dotnet/fsharp/) [tryfsharp](http://www.tryfsharp.org/)
 - [Fable](http://fable.io)
 
 ### WEB
