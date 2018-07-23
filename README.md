@@ -187,6 +187,10 @@
 - [Scala.js](http://www.scala-js.org/)
 - [Java Specifications](https://docs.oracle.com/javase/specs/index.html)
 
+### F#
+
+- [Data science packages for F#](https://fslab.org/)
+
 ### 设计模式（design pattern)
 
 - 《设计模式：可复用面向对象软件的基础》GoF
