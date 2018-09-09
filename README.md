@@ -222,6 +222,7 @@
 - [Flow Control](http://www.pccompci.com/Flow_Control.html)
 - [http://blog.japaric.io/](http://blog.japaric.io/)
 - [http://nodebots.io/](http://nodebots.io/)
+- [debug mbed in vscode](https://os.mbed.com/docs/latest/tutorials/visual-studio-code.html)
 
 ### 其他
 
