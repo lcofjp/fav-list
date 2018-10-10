@@ -240,6 +240,7 @@
 - [符号字符](http://copychar.cc/)
 - [http://plantuml.com/](http://plantuml.com/)
 - [VLC](https://www.videolan.org/)
+- [《Mobile HTML5》一书在线资源](http://www.standardista.com/mobile/)
 
 ### 博客/文章
 
