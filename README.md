@@ -5,6 +5,7 @@
 
 - [c9.io](https://c9.io/)
 - [www.jdoodle.com 在线编译器](https://www.jdoodle.com/)
+- [ideone.com 在线编译器](https://ideone.com)
 - [Jupyter Notebook](https://jupyter.org/)
 
 ### 编程语言
@@ -210,7 +211,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
 - [glfw](https://github.com/glfw/glfw)
 - [gl3w](https://github.com/skaslev/gl3w)
-- [SDL](https://www.libsdl.org/)
+- [SDL libsdl c/c++](https://www.libsdl.org/)
 
 ### 电子电路/单片机
 
