@@ -22,6 +22,7 @@
 - [事件类型一览表](https://developer.mozilla.org/zh-CN/docs/Web/Events)
 - [html5test](http://html5test.com/)
 - [WebAssembly](https://webassembly.org/)
+- [Emscripten](http://kripken.github.io/emscripten-site/index.html)
 - [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
 - [Markdown](http://daringfireball.net/projects/markdown/)
 - [Bitbucket Markdown语法参考](https://bitbucket.org/tutorials/markdowndemo)
