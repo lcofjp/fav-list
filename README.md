@@ -170,6 +170,7 @@
 - [open-color](https://yeun.github.io/open-color/)
 - [The AI color tool for designers](http://khroma.co/)
 - [颜色渐变编辑器](http://www.colorzilla.com/gradient-editor/)
+- [渐变](https://webgradients.com/)
 
 ### Rust Programming Language
 
