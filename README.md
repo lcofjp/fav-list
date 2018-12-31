@@ -230,7 +230,8 @@
 
 ### C/C++
 
--[Embedded Template Library](https://www.etlcpp.com/home.html)
+- [Embedded Template Library](https://www.etlcpp.com/home.html)
+- [FAST, MODERN C++ DSP FRAMEWORK](https://www.kfrlib.com/)
 
 ### 其他
 
