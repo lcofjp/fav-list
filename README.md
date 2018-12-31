@@ -228,6 +228,10 @@
 - [http://nodebots.io/](http://nodebots.io/)
 - [debug mbed in vscode](https://os.mbed.com/docs/latest/tutorials/visual-studio-code.html)
 
+### C/C++
+
+-[Embedded Template Library](https://www.etlcpp.com/home.html)
+
 ### 其他
 
 - [每天一本编程书](https://salttiger.com/)
@@ -291,3 +295,5 @@
 - [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS)
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Functional-Light JavaScript](https://github.com/getify/functional-light-js)
+- [https://theboostcpplibraries.com/](https://theboostcpplibraries.com/)
+
