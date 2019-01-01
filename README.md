@@ -288,6 +288,7 @@
 ---
 
 - [Dr. Axel Rauschmayer(JavaScript大神)](http://dr-axel.de/)
+- [Nicolai M. Josuttis](http://www.josuttis.com/)
 
 ### HTML/Markdown版书籍
 
