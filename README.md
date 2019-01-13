@@ -232,6 +232,9 @@
 
 - [Embedded Template Library](https://www.etlcpp.com/home.html)
 - [FAST, MODERN C++ DSP FRAMEWORK](https://www.kfrlib.com/)
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
+- [cppreference](https://en.cppreference.com/w/)
+- [https://isocpp.org/](https://isocpp.org/)
 
 ### 其他
 
