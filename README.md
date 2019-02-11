@@ -302,3 +302,11 @@
 - [Functional-Light JavaScript](https://github.com/getify/functional-light-js)
 - [https://theboostcpplibraries.com/](https://theboostcpplibraries.com/)
 
+### Books
+
+- [Pearson](https://www.pearson.com/)
+- [Pearson - InformIT](http://www.informit.com)
+- [manning](https://www.manning.com/)
+- [Packt](https://www.packtpub.com/)
+
+
