@@ -190,6 +190,7 @@
 - [opengl for java](https://jogamp.org/jogl/www/)
 - [Scala.js](http://www.scala-js.org/)
 - [Java Specifications](https://docs.oracle.com/javase/specs/index.html)
+- [launch4j](http://launch4j.sourceforge.net/index.html)
 
 ### F#
 
