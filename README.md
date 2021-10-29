@@ -49,6 +49,7 @@
 - [PHP The Right Way](http://www.phptherightway.com/)
 - [cnpm](http://riny.net/2014/cnpm/)
 - [free, automated, and open Certificate Authority](https://letsencrypt.org/)
+- [CSS 动画集锦](https://www.sliderrevolution.com/resources/css-text-animation/)
 
 ### JavaScript
 
